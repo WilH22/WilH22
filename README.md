@@ -17,8 +17,6 @@ Data-driven decision making using Python & SQL 🐍💾
 
 🧠 Machine learning for financial time series
 
-💻 Intermediate C++ for high-performance modeling
-
 🔢 Advanced Python for quant modeling and data visualization
 
 🔗 Featured Project
