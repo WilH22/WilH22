@@ -1,34 +1,41 @@
 👋 Hi, I'm Wielly Halim (a.k.a. @WilH22)
-🚀 Aspiring Quant | 🎓 MFE Candidate | 🧠 Python & C++ Explorer | 📍 Singapore
+🚀 Aspiring Quant | 🎓 NUS MFE Candidate | 💻 Python & C++ Explorer | 📍 Singapore
 
-Welcome to my GitHub profile — a collection of projects blending code, finance, and curiosity.
+Welcome to my GitHub — where code meets finance, and theory meets execution.
 
-💼 I'm Interested In
-Quantitative finance 🧮
+💼 My Interests
 
-Algorithmic trading & portfolio optimization 📈
+Quantitative finance & factor models (CAPM, FF3/FF5) 📊
 
-Financial engineering & stochastic modeling 🔍
+Portfolio optimization & risk management 🧮
+
+Financial engineering & stochastic processes 🔍
 
 Data-driven decision making using Python & SQL 🐍💾
 
-🛠️ I’m Currently Exploring
-📚 Financial Engineering fundamentals (MPT, derivatives, VaR)
+🧠 Currently Exploring
 
-🧠 Machine learning for financial time series
+Fama-French 3-Factor & 5-Factor models for asset pricing
 
-🔢 Advanced Python for quant modeling and data visualization
+Monte Carlo simulation & Value at Risk (VaR)
 
-🔗 Featured Project
+Advanced Python & C++ for quant modeling
 
-A powerful tool that builds optimized investment portfolios using Modern Portfolio Theory (MPT), cvxpy, and live stock data via yfinance.
+Machine learning for financial time series
 
-🤝 I’m Looking to Collaborate On
-Fintech/data science projects with real-world datasets
+🔗 Featured Projects
 
-Open-source tools for financial modeling and visualization
+Fama-French Models: Regression & portfolio optimization using FF3 factors, with visualization and CSV output for performance metrics.
 
-Python backtesting engines or financial dashboards
+MPT Optimizer: Portfolio optimizer using cvxpy and yfinance, comparing efficient frontier vs. individual assets.
+
+🤝 Looking to Collaborate On
+
+Fintech or quant research projects using real-world market data
+
+Open-source tools for financial modeling, simulation, and analytics
+
+
 
 📫 How to Reach Me
 📧 Email: wiellyhalim92@gmail.com
